@@ -9,7 +9,7 @@ namespace apprepo01
     class Materias
     {
         private String codmat;
-        private String asignatura1;
+        private String asignatura;
 
 
     }
